@@ -5,6 +5,10 @@ Kawempe National Referral Hospital is a major healthcare facility serving a larg
 
 The aim of this dashboard is to transform raw hospital records into meaningful insights that can guide leadership, administrators, and healthcare teams in identifying service bottlenecks, improving patient care delivery, and strengthening revenue management. The analysis helps turn data into action by highlighting where resources are most heavily used and where intervention is needed.
 
+### Introductory Healthcare Image
+
+![Healthcare Introduction](Introductory_Image.png)
+
 ## About the Dataset
 The dataset used for this analysis is the hospital patient record workbook titled "Hospital_Patients_Dataset_worked1.xlsx". It contains 1,000 patient records and key variables such as:
 
@@ -88,9 +92,3 @@ To improve hospital performance, the following recommendations are suggested:
 This dashboard provides a valuable overview of patient care activities and financial performance at Kawempe National Referral Hospital. By using data to understand patient trends, department demands, and billing patterns, the hospital can make better operational decisions, improve patient satisfaction, and strengthen financial management.
 
 The project demonstrates how healthcare analytics can support evidence-based decision-making. With continuous use of the dashboard, the hospital can improve efficiency, reduce revenue gaps, and maintain quality care for its patients.
-
----
-
-### Introductory Healthcare Image
-
-![Healthcare Introduction](Introductory_Image.png)
